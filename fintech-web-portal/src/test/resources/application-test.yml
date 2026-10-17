@@ -1,0 +1,7 @@
+services:
+  auth:
+    url: http://localhost:8081
+  wallet:
+    url: http://localhost:8082
+  payment:
+    url: http://localhost:8083
